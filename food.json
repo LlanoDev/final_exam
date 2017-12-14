@@ -1,0 +1,10 @@
+[{"_id":{"$oid":"5a32d5d7fc13ae1b140005e6"},"item_name":"Beef - Cooked, Corned","price":"$1.42"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005e7"},"item_name":"Wine - Carmenere Casillero Del","price":"$1.75"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005e8"},"item_name":"Bagel - 12 Grain Preslice","price":"$8.30"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005e9"},"item_name":"Mushroom - White Button","price":"$9.30"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005ea"},"item_name":"Beef - Bones, Marrow","price":"$3.86"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005eb"},"item_name":"Chivas Regal - 12 Year Old","price":"$4.89"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005ec"},"item_name":"Cheese - Colby","price":"$5.06"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005ed"},"item_name":"Apple - Delicious, Golden","price":"$7.71"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005ee"},"item_name":"Rabbit - Frozen","price":"$8.63"},
+{"_id":{"$oid":"5a32d5d7fc13ae1b140005ef"},"item_name":"Longos - Chicken Caeser Salad","price":"$3.21"}]

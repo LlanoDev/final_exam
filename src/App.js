@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
 import './App.css'
+import foodItems from './food.json'
+import Food from './Food.js'
 
 class App extends Component {
   render () {
     return (
-      <div className='App' />
+        <Food allItems={foodItems}/>
     )
   }
 }
